@@ -39,4 +39,4 @@ This comprehensive analysis underscores the need for targeted traffic enforcemen
 ## How to Use This Repository
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/NYC-Traffic-Parking-Analysis.git
+   git clone https://github.com/jsaintfleur/NYC-Traffic-Parking-Analysis.git
